@@ -1,2 +1,0 @@
-# qinliming.github.io
-blog
